@@ -3,6 +3,7 @@
 	min-width: 520px;
 	height: 500px;
 	position: relative;
+	color: black;
 	margin: 4% auto;
 	overflow: hidden;
 	/*background: transparent url(../images/waves.gif) repeat 0% 0%;
@@ -37,7 +38,7 @@
 .da-slide .da-link,
 .da-slide .da-img{
 	position: absolute;
-	opacity: 0;
+	opacity: 1;
 	left: 110%;
 }
 .da-slider-fb .da-slide h2,
@@ -63,7 +64,7 @@
 .da-slide p{
 	width: 45%;
 	top: 155px;
-	color: #916c05;
+	color: black;
 	font-size: 18px;
 	line-height: 26px;
 	height: 80px;
